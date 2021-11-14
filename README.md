@@ -1,1 +1,1 @@
-nodejs_bootcamp_patika_getir
+Patika.dev & Getir Node.js Bootcamp
