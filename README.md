@@ -7,8 +7,8 @@ Week - 1
         async, await
 
 Week - 2
-    asyncJavaScript
-    npm node_modules package, moment package etc.
+    async, await
+    npm node_modules, packages, moment package etc.
     express.js
     promiseAll
     axios
