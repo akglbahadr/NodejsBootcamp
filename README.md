@@ -10,3 +10,5 @@ Week - 2
     asyncJavaScript
     npm node_modules package, moment package etc.
     express.js
+    promiseAll
+    axios
