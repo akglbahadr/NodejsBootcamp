@@ -1,0 +1,27 @@
+{
+  "name": "deneme",
+  "version": "1.0.0",
+  "description": "Bu bir deneme paketidir.",
+  "main": "(index.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akglbahadr/NodejsBootcamp.git"
+  },
+  "keywords": [
+    "zaman"
+  ],
+  "author": "Kodluyoruz Ekibi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akglbahadr/NodejsBootcamp/issues"
+  },
+  "homepage": "https://github.com/akglbahadr/NodejsBootcamp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "uninstall": "^0.0.0"
+  }
+}

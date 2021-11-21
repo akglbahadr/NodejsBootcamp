@@ -5,3 +5,8 @@ Week - 1
     asenkron
     callBack functions
         async, await
+
+Week - 2
+    asyncJavaScript
+    npm node_modules package, moment package etc.
+    express.js
